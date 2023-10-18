@@ -1,3 +1,5 @@
+# coding: utf-8
+
 # 장고 프레임워크
 django~=4.1.0
 
